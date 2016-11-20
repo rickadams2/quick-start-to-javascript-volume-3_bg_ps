@@ -1,1 +1,3 @@
-# quick-start-to-javascript-volume-3_bg_ps
+## quick-start-to-javascript-volume-3_bg_ps
+
+In this final Volume of the Quick Start to JavaScript series, we'll learn about objects, the core concept of an object oriented language like JavaScript. We'll also learn what object oriented means, and take a look at the different ways we can create objects. We'll also learn about the concept of scope and how it impacts our code, and go over best practices in formatting and using a linting tool to check our code for errors and inconsistencies. By the end of this Quick Start to JavaScript series, you'll be up and running in JavaScript, and ready to start tackling your own projects using this versatile scripting language.
